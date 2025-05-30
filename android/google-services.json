@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "968830667828",
+    "project_id": "mobil-final-337c1",
+    "storage_bucket": "mobil-final-337c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968830667828:android:6149dfed0209d860d8ce61",
+        "android_client_info": {
+          "package_name": "com.example.mobil_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTK5sCp0ccf1ml73h3CN3UbIt6chaz6lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968830667828:android:8ad4f52f14da0962d8ce61",
+        "android_client_info": {
+          "package_name": "com.ornek.finaluygulama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTK5sCp0ccf1ml73h3CN3UbIt6chaz6lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

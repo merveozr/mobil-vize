@@ -1,3 +1,56 @@
+# Flutter/Dart ile ilgili geçici dosyalar
 .dart_tool/
-.idea
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Flutter build klasörleri
 build/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+android/.gradle/
+android/app/build/
+
+# IDE ve kullanıcıya özel dosyalar
+.idea/
+*.iml
+*.ipr
+*.iws
+*.swp
+
+# Bağımlılıkların kilit dosyaları
+pubspec.lock
+
+# Platforma özel dosyalar
+android/local.properties
+ios/Pods/
+ios/Podfile.lock
+
+# Log dosyaları
+*.log
+
+# Diğer geçici dosyalar
+*.tmp
+*.temp
+*.DS_Store
+*.class
+*.pyc
+*.pyo
+*.out
+*.bak
+*.old
+*.orig
+*.rej
+*.swo
+*.swn
+*.swp
+*.swpx
+*.tmp
+*.temp
+*.log
+*.pid
+*.seed
+*.pid.lock
